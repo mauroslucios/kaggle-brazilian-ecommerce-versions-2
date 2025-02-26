@@ -1,4 +1,3 @@
-# kaggle-brazilian-ecommerce-versions-2
 # Kaggle Brazilian E-Commerce Versions 2
 
 ## 📦 About the Dataset
